@@ -45,5 +45,9 @@ Não há script para criação automática de outras imagens.
 
 ----
 
+Se quiser trocar a fonte e melhorar o kerning, [verifique](https://github.com/Akaruzi/kkk_r18_patch/tree/master/entrans/wordwrap)
+
+----
+
 Não há como utilizar a quebra de linha em texto sobreescrito (ruby). O ideal seria uma caixa horizontal para adicioná-lo nas runas, mas isso estragaria a estética do jogo.
 Boa sorte lidando com isso e/ou descobrindo como fazer o jogo quebrar linhas automaticamente, tal qual ocorre na versão inglesa de Dies Irae. Isso resolveria todos os problemas e facilitaria o processo de compilação.
