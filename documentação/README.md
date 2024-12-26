@@ -1,4 +1,4 @@
-Este do documento se refere exclusivamente ao processo de compilação de KKK, baseado nos arquivos e estrutura deste patch.
+Este documento se refere exclusivamente ao processo de compilação de KKK, baseado nos arquivos e estrutura deste patch.
 Explicações rápidas e pouco detalhadas.
 
 Para uma documentação detalhada sobre a engine MalieSystem, verifique o repositório de (Dies Irae)[https://github.com/Monaco-a-Knox/Dia-da-Ira/tree/main/outros].
