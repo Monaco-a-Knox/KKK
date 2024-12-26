@@ -7,8 +7,9 @@ Para maiores informações, consultar o repositório de [Dies Irae](https://gith
 
 ----
 
-Tradução: anônimo
-Programação: Monaco A. Knox
-Sem progresso. Sem informações adicional.
+- Tradução: anônimo
+- Programação: Monaco A. Knox
+- Sem progresso. Sem informações adicionais.
 
+Boa sorte.
 
