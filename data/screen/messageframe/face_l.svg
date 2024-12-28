@@ -9,8 +9,8 @@
 	</defs>
 	<g id='hideframe'>
 		<image id='base' x='10' y='0' width='256' height='600' xlink:href='./normal_l_frame.png' opacity='1'/>
-		<image id='face_w' transform='scale(0.5)' x='12' y='40' width='256' height='256' xlink:href='./face_w.png' opacity='1'/>
+		<image id='face_w' transform='scale(0.5)' x='144' y='40' width='256' height='256' xlink:href='./face_w.png' opacity='1'/>
 		<ui:custom id='message' x='20' y='156' width='246' height='438'/>
-		<ui:custom id='face' x='10' y='24' width='120' height='120'/>
+		<ui:custom id='face' x='80' y='24' width='120' height='120'/>
 	</g>
 </svg>
