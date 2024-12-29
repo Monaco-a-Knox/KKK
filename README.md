@@ -7,7 +7,7 @@ Para maiores informações, consultar o repositório de [Dies Irae](https://gith
 
 ----
 
-- Tradução: anônimo
+- Tradução: ~~anônimo~~ Procura-se interessados.
 - Programação: Monaco A. Knox
 - Sem progresso. Sem informações adicionais.
 
