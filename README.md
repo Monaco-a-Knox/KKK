@@ -7,7 +7,7 @@ Para maiores informações, consultar o repositório de [Dies Irae](https://gith
 
 ----
 
-- Tradução: anônimo
+- Tradução: o maluco pode ser você
 - Programação: Monaco A. Knox
 - Sem progresso. Sem informações adicionais.
 
